@@ -88,7 +88,6 @@ Stay Safe → Smart moderation filters harmful content and shows crisis helpline
 
 😊 Improved Wellbeing – Daily mood check-ins help students manage stress and anxiety.
 🎯 Higher Engagement – Gamification drives consistency through streaks, badges, and rewards.
-🤝 Stronger Connections – Anonymous communities reduce loneliness and foster peer support.
 📚 Healthier Habits – Challenges and resources build lasting positive routines.
 🛡 Safer Environment – Smart moderation ensures a supportive and responsible space.
 
