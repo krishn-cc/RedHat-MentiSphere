@@ -1,8 +1,9 @@
+<!-- Banner Image -->
 <p align="center">
   <img src="banner1.png" alt="MentiSphere Banner" width="100%">
 </p>
 
-<h1 align="center">🎮 MentiSphere: Your Path to a Tech Career 🚀</h1>
+<h1 align="center">🎮 MentiSphere: Gamified Peer Support for Student Wellness 🌍</h1>
 <p align="center">
   Transforming tech education with structured roadmaps, gamification, and career-focused insights.
 </p>
@@ -10,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Vite-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=Supabase" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase" />
 </p>
 
 ---
@@ -101,4 +102,4 @@ Stay Safe → Smart moderation filters harmful content and shows crisis helpline
 👩‍⚕️ Counselor Integration – Seamless referral to professionals when needed.
 🤝 Group Challenges – Cooperative wellness missions to build habits together.
 
----**
+---
